@@ -97,8 +97,7 @@ Este proyecto está bajo la licencia MIT.
 Eres libre de usarlo, modificarlo y distribuirlo, citando la fuente original.
 
 👨‍💻 Autor
-
-Emanuel Gonzalez Michea
+© 2025 Emanuel — Licencia MIT
 
 🌐 LinkedIn
 https://www.linkedin.com/in/emanuel-gonzalez-michea/
