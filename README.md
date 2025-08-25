@@ -109,11 +109,3 @@ Puedes usarlo, modificarlo y distribuirlo libremente, citando la fuente original
 Emanuel Gonzalez Michea
 LinkedIn | GitHub
 
-yaml
-Copiar
-Editar
-
----
-
-Si quieres, puedo también crearte un **`requirements.txt`** y un **Dockerfile** para que tu repositorio se vea todavía más profesional y listo para desplegar.  
-¿Quieres que te lo prepare ahora?
